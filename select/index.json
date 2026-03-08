@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "果てのない旅",
+  "base_artist": "鈴木愛奈",
+  "createdAt": "2026-03-08T07:43:52.508538Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "果てのない旅",
+      "artist": "鈴木愛奈",
+      "has_synced": false,
+      "path": "select/pl_01_果てのない旅_鈴木愛奈.txt"
+    }
+  ]
+}
